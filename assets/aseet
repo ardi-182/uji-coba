@@ -1,0 +1,11 @@
+assets/
+│
+├── images/      <-- Foto-foto kenangan
+│   ├── foto1.jpg
+│   ├── foto2.jpg
+│   └── ...
+│
+├── videos/      <-- Video kenangan
+│   ├── video1.mp4
+│   ├── video2.mp4
+│   └── ...
